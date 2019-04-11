@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 70526061842720046}
   - component: {fileID: 114173615360585624}
   - component: {fileID: 70903004034355872}
-  - component: {fileID: 114590158554634530}
   m_Layer: 0
   m_Name: polRapid
   m_TagString: Enemigo
@@ -151,21 +150,6 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 3.84, y: 7.7}
   m_Direction: 0
---- !u!114 &114590158554634530
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1064271371606026}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 85959e8342535e44cad1b0ff4a6af89f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  bala: {fileID: 1509972027388840, guid: 52996515798921946b26474397192024, type: 3}
-  tag: {fileID: 0}
-  tasa: 3
 --- !u!1 &1210874639634770
 GameObject:
   m_ObjectHideFlags: 0

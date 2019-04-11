@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 114285973008167716}
   m_Layer: 0
   m_Name: super mario bros sprites_418
-  m_TagString: BalaEnemy
+  m_TagString: Enemigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
