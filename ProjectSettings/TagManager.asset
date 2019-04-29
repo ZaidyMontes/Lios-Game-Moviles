@@ -49,3 +49,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Botones
+    uniqueID: 2729709791
+    locked: 0
